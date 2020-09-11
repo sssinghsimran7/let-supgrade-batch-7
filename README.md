@@ -1,1 +1,1 @@
-# let-supgrade-batch-7
+# day 6 Assignments
